@@ -1,4 +1,5 @@
 language: node_js
 before_script:
 - npm -g install npm@latest
+- chmod +x ./virusbutton.js
 script: ./virusbutton.js
