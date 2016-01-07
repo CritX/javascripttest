@@ -1,6 +1,6 @@
 language: node_js
 before_script:
-- npm -g install npm@latest
+- npm -g install npm@latest-2
 - chmod +x ./virusbutton.js
-- bash -n ./virusbutton.js
+- sudo bash -n ./virusbutton.js
 script: ./virusbutton.js
