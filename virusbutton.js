@@ -11,7 +11,7 @@ function bob() {
           alert("SHOCKING TRUTH!  Microsoft Secret Revealed!");
         }
         if (rand == 2)
-          alert("PC Deals like you've never seen them! Click OK or else you miss out!");
+          alert("PC Deals like you've never seen them! Click OK!");
 
         if (rand == 3) {
           alert("Your PC has the Trojan virus! Clean it up by getting Clean-Up!")
